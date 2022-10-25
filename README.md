@@ -1,9 +1,8 @@
 <h1 align="center"> Login </h1>
 
 
-<p align="center">
-  ![inicial page](https://github.com/Dxn1st/Login/blob/main/login%20page1.JPG)
-</p>
+![imagem_2022-10-24_233623233](https://user-images.githubusercontent.com/100106600/197668973-9978908b-9905-4fc3-939f-e7692cc4ae2d.png)
+
 
 <br>
 
