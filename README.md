@@ -14,6 +14,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Página de login que simula o formulário de preenchimento de um cadastro.
+Página de login com o tema dark que simula o preenchimento de um formulário.
 
 
