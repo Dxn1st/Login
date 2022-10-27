@@ -1,8 +1,6 @@
 <h1 align="center"> Login </h1>
 
-
-![imagem_2022-10-24_233623233](https://user-images.githubusercontent.com/100106600/197668973-9978908b-9905-4fc3-939f-e7692cc4ae2d.png)
-
+![image](https://user-images.githubusercontent.com/100106600/198407521-2fba2bfb-bf92-400b-8cce-54739c827437.png)
 
 <br>
 
